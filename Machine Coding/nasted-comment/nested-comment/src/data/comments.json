@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "content": "This is 1st comment",
+        "vote": 5,
+        "timestamp": "20th Jully 2024",
+        "replies": [
+            {
+                "id": 2,
+                "content": "This is nested comment",
+                "vote": 2,
+                "timestamp": "20th Jully 2024",
+                "replies": [
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "content": "This is 3rd comment",
+                "vote": 1,
+                "timestamp": "20th Jully 2024",
+                "replies": [
+                    
+                ]
+            }
+        ]
+    }
+]
